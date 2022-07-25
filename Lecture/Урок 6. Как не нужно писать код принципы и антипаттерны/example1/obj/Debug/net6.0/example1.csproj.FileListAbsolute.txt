@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\obj\Debug\net6.0\example1.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\obj\Debug\net6.0\example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\obj\Debug\net6.0\example1.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\obj\Debug\net6.0\example1.AssemblyInfo.cs
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\obj\Debug\net6.0\example1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\bin\Debug\net6.0\example1.exe
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\bin\Debug\net6.0\example1.deps.json
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\bin\Debug\net6.0\example1.runtimeconfig.json
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\bin\Debug\net6.0\example1.dll
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\bin\Debug\net6.0\example1.pdb
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\obj\Debug\net6.0\example1.dll
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\obj\Debug\net6.0\refint\example1.dll
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\obj\Debug\net6.0\example1.pdb
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\obj\Debug\net6.0\example1.genruntimeconfig.cache
+C:\Users\andre\Desktop\Урок 6. Как не нужно писать код принципы и антипаттерны\example1\obj\Debug\net6.0\ref\example1.dll

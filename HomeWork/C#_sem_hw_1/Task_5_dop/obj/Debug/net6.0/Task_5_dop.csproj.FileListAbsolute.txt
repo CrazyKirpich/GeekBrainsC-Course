@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\bin\Debug\net6.0\Task_5_dop.exe
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\bin\Debug\net6.0\Task_5_dop.deps.json
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\bin\Debug\net6.0\Task_5_dop.runtimeconfig.json
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\bin\Debug\net6.0\Task_5_dop.dll
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\bin\Debug\net6.0\Task_5_dop.pdb
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\obj\Debug\net6.0\Task_5_dop.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\obj\Debug\net6.0\Task_5_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\obj\Debug\net6.0\Task_5_dop.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\obj\Debug\net6.0\Task_5_dop.AssemblyInfo.cs
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\obj\Debug\net6.0\Task_5_dop.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\obj\Debug\net6.0\Task_5_dop.dll
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\obj\Debug\net6.0\refint\Task_5_dop.dll
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\obj\Debug\net6.0\Task_5_dop.pdb
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\obj\Debug\net6.0\Task_5_dop.genruntimeconfig.cache
+C:\Users\andre\Desktop\С#_sem_hw_1\Task_5_dop\obj\Debug\net6.0\ref\Task_5_dop.dll

@@ -1,0 +1,15 @@
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\bin\Debug\net6.0\Example03.exe
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\bin\Debug\net6.0\Example03.deps.json
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\bin\Debug\net6.0\Example03.runtimeconfig.json
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\bin\Debug\net6.0\Example03.dll
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\bin\Debug\net6.0\Example03.pdb
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\obj\Debug\net6.0\Example03.csproj.AssemblyReference.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\obj\Debug\net6.0\Example03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\obj\Debug\net6.0\Example03.AssemblyInfoInputs.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\obj\Debug\net6.0\Example03.AssemblyInfo.cs
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\obj\Debug\net6.0\Example03.csproj.CoreCompileInputs.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\obj\Debug\net6.0\Example03.dll
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\obj\Debug\net6.0\refint\Example03.dll
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\obj\Debug\net6.0\Example03.pdb
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\obj\Debug\net6.0\Example03.genruntimeconfig.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example03\obj\Debug\net6.0\ref\Example03.dll

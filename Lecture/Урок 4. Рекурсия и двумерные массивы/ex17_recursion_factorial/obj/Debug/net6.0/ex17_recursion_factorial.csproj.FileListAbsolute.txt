@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\bin\Debug\net6.0\ex17_recursion_factorial.exe
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\bin\Debug\net6.0\ex17_recursion_factorial.deps.json
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\bin\Debug\net6.0\ex17_recursion_factorial.runtimeconfig.json
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\bin\Debug\net6.0\ex17_recursion_factorial.dll
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\bin\Debug\net6.0\ex17_recursion_factorial.pdb
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\obj\Debug\net6.0\ex17_recursion_factorial.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\obj\Debug\net6.0\ex17_recursion_factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\obj\Debug\net6.0\ex17_recursion_factorial.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\obj\Debug\net6.0\ex17_recursion_factorial.AssemblyInfo.cs
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\obj\Debug\net6.0\ex17_recursion_factorial.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\obj\Debug\net6.0\ex17_recursion_factorial.dll
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\obj\Debug\net6.0\refint\ex17_recursion_factorial.dll
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\obj\Debug\net6.0\ex17_recursion_factorial.pdb
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\obj\Debug\net6.0\ex17_recursion_factorial.genruntimeconfig.cache
+C:\Users\andre\Desktop\Урок 4. Рекурсия и двумерные массивы\ex17_recursion_factorial\obj\Debug\net6.0\ref\ex17_recursion_factorial.dll

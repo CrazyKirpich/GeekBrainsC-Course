@@ -1,0 +1,15 @@
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\bin\Debug\net6.0\Example01_Method.exe
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\bin\Debug\net6.0\Example01_Method.deps.json
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\bin\Debug\net6.0\Example01_Method.runtimeconfig.json
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\bin\Debug\net6.0\Example01_Method.dll
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\bin\Debug\net6.0\Example01_Method.pdb
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\obj\Debug\net6.0\Example01_Method.csproj.AssemblyReference.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\obj\Debug\net6.0\Example01_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\obj\Debug\net6.0\Example01_Method.AssemblyInfoInputs.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\obj\Debug\net6.0\Example01_Method.AssemblyInfo.cs
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\obj\Debug\net6.0\Example01_Method.csproj.CoreCompileInputs.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\obj\Debug\net6.0\Example01_Method.dll
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\obj\Debug\net6.0\refint\Example01_Method.dll
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\obj\Debug\net6.0\Example01_Method.pdb
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\obj\Debug\net6.0\Example01_Method.genruntimeconfig.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example01_Method\obj\Debug\net6.0\ref\Example01_Method.dll

@@ -1,0 +1,15 @@
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\bin\Debug\net6.0\Example02_Array.exe
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\bin\Debug\net6.0\Example02_Array.deps.json
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\bin\Debug\net6.0\Example02_Array.runtimeconfig.json
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\bin\Debug\net6.0\Example02_Array.dll
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\bin\Debug\net6.0\Example02_Array.pdb
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\obj\Debug\net6.0\Example02_Array.csproj.AssemblyReference.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\obj\Debug\net6.0\Example02_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\obj\Debug\net6.0\Example02_Array.AssemblyInfoInputs.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\obj\Debug\net6.0\Example02_Array.AssemblyInfo.cs
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\obj\Debug\net6.0\Example02_Array.csproj.CoreCompileInputs.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\obj\Debug\net6.0\Example02_Array.dll
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\obj\Debug\net6.0\refint\Example02_Array.dll
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\obj\Debug\net6.0\Example02_Array.pdb
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\obj\Debug\net6.0\Example02_Array.genruntimeconfig.cache
+C:\Users\Андр\Desktop\Урок 2. Знакомство с функциями и массивами C#\Example02_Array\obj\Debug\net6.0\ref\Example02_Array.dll
